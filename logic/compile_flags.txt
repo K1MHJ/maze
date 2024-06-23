@@ -1,0 +1,8 @@
+-DDEBUG
+-Iinclude
+-Ilibstat
+-I/opt/homebrew/include/
+-I/usr/include/
+-I/usr/local/include/
+-I./src/
+-std=c++17
